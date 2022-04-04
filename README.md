@@ -7,9 +7,3 @@ Programming language used for implementation: Java
 Data structures : Minheap
 
 Visualization : graphviz
-
-Time Complexities: n is the length of the inputted string
-
-Encoding : O(n)
-
-Decoding: O(n^2)
